@@ -12,6 +12,31 @@ body {
     background: #C0C0C0;
 }
 
+body {
+    font-family: 'Oswald', sans-serif; 
+    font-size: 18px;                  
+    line-height: 1.6;                 
+    color: #333;                      
+    background-color: #fff;           
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    font-family: 'Oswald', sans-serif;  
+    font-size: 18px;                    
+    line-height: 1.6;                  
+    color: #444;                        
+    margin-bottom: 15px;                
+}
+
+h1, h2, h3 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;      
+    color: #222;           
+    margin-bottom: 10px;
+}
+
 a {
     text-decoration: none;
 }
